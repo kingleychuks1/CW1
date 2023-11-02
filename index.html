@@ -159,6 +159,10 @@
                             <div class="col">
                                 <input type="text" class="form-control" v-model="user.phone" placeholder="Phone Number"
                                     required>
+                                    <input type="text" class="form-control" v-model="user.address" placeholder="Enter Address"
+                                    required>
+                                    </div>
+                                    
                             </div>
                             <input style="margin-bottom: 50px;" v-on:click="submitForm(user)"
                                 v-if="user.name == '' || user.number == '' " class="btn btn-primary" type="submit"
