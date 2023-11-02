@@ -60,7 +60,7 @@ let lessons = [
         price : 100,
         image: "images/economics.jpeg",
         availablespace: 5,
-        rating: 1   
+        rating: 2   
     },
     {
         id: 8,
