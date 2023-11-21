@@ -28,10 +28,10 @@ let lessons = [
     },
     {
         id: 4,
-        subject: "Secience",
+        subject: "Secience Encylopedia",
         location: "Glasgow",
         price : 200,
-        image: "images/chemistry.jpeg",
+        image: "images/science_encyclopedia.jpg",
         availablespace: 5,
         rating: 3    
     },
