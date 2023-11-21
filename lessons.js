@@ -1,10 +1,10 @@
 let lessons = [
 	{
         id: 1,
-        subject: "Math",
+        subject: "How Your Body Works",
         location: "Manchester",
         price : 350,
-        image: "images/maths.jpeg",
+        image: "images/How your body works.jpg",
         availablespace: 5,
         rating: 4
     },
@@ -19,16 +19,16 @@ let lessons = [
     },
     {
         id: 3,
-        subject: "Physics",
+        subject: "Kid-Scientist",
         location: "Liverpool",
         price : 250,
-        image: "images/physics.jpeg",
+        image: "images/Kid Scientist.jpg",
         availablespace: 5,
         rating: 4  
     },
     {
         id: 4,
-        subject: "Chemistry",
+        subject: "Secience",
         location: "Glasgow",
         price : 200,
         image: "images/chemistry.jpeg",
@@ -37,10 +37,10 @@ let lessons = [
     },
     {
         id: 5,
-        subject: "Biology",
+        subject: "Numbers Computer and Coding",
         location: "London",
         price : 250,
-        image: "images/biology.jpeg",
+        image: "images/Numbers Computer and Coding.jpg",
         availablespace: 5,
         rating: 3    
     },
